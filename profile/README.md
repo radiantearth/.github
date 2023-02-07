@@ -1,15 +1,12 @@
-[![Radiant Earth](https://user-images.githubusercontent.com/766758/184390015-9018b43f-f5c8-4f1f-9fa4-43b1a22ad9ef.jpg)](https://radiant.earth)
+Radiant Earth Foundation is a nonprofit technology company working to expand access to geospatial data and machine learning models that can be used to address the impacts of climate change and support conservation efforts.
 
-## Get Started
+Our primary initiatives:
 
-We host geospatial data and models through Radiant MLHub, an open-access hub allowing practitioners to build better and more efficient algorithms for global missions like agriculture, conservation, and climate change. 
+## Radiant MLHub
+Radiant MLHub is the world’s first cloud-based open library dedicated to Earth observation training data for use with machine learning algorithms. Access open datasets and machine learning models from NASA, Planet, University of Maryland and others at https://mlhub.earth
 
-- [Browse training datasets and models by applications](https://mlhub.earth/)
-- [Explore ways to collaborate and share information](https://mlhub.earth/community)
+## STAC
+The SpatioTemporal Asset Catalogs (STAC) metadata specification is a common language to describe geospatial information to make it more accessible and interoperable. Learn more about STAC at https://stacspec.org/
 
-For more information, review our [FAQ](https://mlhub.earth/docs)
-
-___
-
-Radiant Earth is a nonprofit working to empower organizations and individuals with open ML and EO data, standards, and tools. Visit 
-[www.radiant.earth](https://radiant.earth) to learn more!
+## Machine Learning Challenges
+We help organize challenges to create capacity building opportunities and accelerate development of machine learning models to interpret Earth observation data. Learn about our current [challenge to detect field boundaries in Rwanda](https://zindi.africa/competitions/nasa-harvest-field-boundary-detection-challenge).
