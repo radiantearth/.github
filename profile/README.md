@@ -1,4 +1,6 @@
-Radiant Earth Foundation is a nonprofit technology company working to expand access to geospatial data and machine learning models that can be used to address the impacts of climate change and support conservation efforts.
+**Radiant Earth Foundation is a nonprofit technology company working to expand access to geospatial data and machine learning models that can be used to address the impacts of climate change and support conservation efforts.**
+
+---
 
 Our primary initiatives:
 
