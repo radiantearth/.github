@@ -12,4 +12,4 @@ Source Cooperative is the next generation of Radiant MLHub, our library dedicate
 ## Cloud-Native Geospatial Foundation
 The Cloud-Native Geospatial Foundation is a forthcoming initiative to increase adoption of highly efficient approaches to working with geospatial data in public cloud environments.
 
-Our overarching goals with the Cloud-Native Geospatial Foundation are to make geospatial data easier to work with, more interoperable, and accessible to more people worldwide. Learn more at [https://cloudnativegeo.org](https://cloudnativegeo.org/). https://stacspec.org/
+Our overarching goals with the Cloud-Native Geospatial Foundation are to make geospatial data easier to work with, more interoperable, and accessible to more people worldwide. Learn more at [https://cloudnativegeo.org](https://cloudnativegeo.org/).
