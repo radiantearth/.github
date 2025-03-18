@@ -1,6 +1,4 @@
-**Radiant Earth is nonprofit working to incrase shared understanding of our world through community-led initiatives that make data easier to access and use.**
-
----
+**Radiant Earth is nonprofit working to increase shared understanding of our world through community-led initiatives that make data easier to access and use.**
 
 Our primary initiatives:
 
