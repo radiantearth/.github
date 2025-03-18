@@ -1,4 +1,4 @@
-**Radiant Earth is a nonprofit technology company working to expand access to geospatial data and machine learning models that can be used to address the impacts of climate change and support conservation efforts.**
+**Radiant Earth is nonprofit working to incrase shared understanding of our world through community-led initiatives that make data easier to access and use.**
 
 ---
 
