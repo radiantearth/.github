@@ -5,11 +5,7 @@
 Our primary initiatives:
 
 ## Source Cooperative
-[Source Cooperative](https://source.coop) is a new data publishing utility that allows trusted organizations and individuals to share data products with one another using standard HTTP methods. It is currently in beta development. If you’d like to be a beta tester, please fill out [this form](https://forms.gle/fjMpYrwpVZEaBExW6).
+[Source Cooperative](https://source.coop) is a data publishing utility that allows trusted organizations and individuals to share data products with one another using standard HTTP methods. It is currently in development. If you’d like to be a beta tester, please fill out [this form](https://forms.gle/fjMpYrwpVZEaBExW6).
 
-Source Cooperative is the next generation of Radiant MLHub, our library dedicated to open Earth observation training data. Access open datasets and machine learning models from NASA, Planet, University of Maryland and others at https://mlhub.earth
-
-## Cloud-Native Geospatial Foundation
-The Cloud-Native Geospatial Foundation is a forthcoming initiative to increase adoption of highly efficient approaches to working with geospatial data in public cloud environments.
-
-Our overarching goals with the Cloud-Native Geospatial Foundation are to make geospatial data easier to work with, more interoperable, and accessible to more people worldwide. Learn more at [https://cloudnativegeo.org](https://cloudnativegeo.org/).
+## Cloud-Native Geospatial Forum (CNG)
+The Cloud-Native Geospatial Forum (CNG) collaborates with geospatial data practitioners to create vendor-neutral events, content, and educational opportunities that make geospatial data easier to access and use. Learn more at [https://cloudnativegeo.org](https://cloudnativegeo.org/).
